@@ -66,7 +66,7 @@ function getInstructorOffice(course) {
 }
 const catalog = [
     {
-        id: 1,
+        class: 1,
         name: "Introduction to Science",
         department: "Science",
         instructor: {
@@ -77,7 +77,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 2,
+        class: 2,
         name: "Intro to Mathematics",
         department: "Mathemathics",
         instructor: {
@@ -88,7 +88,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 3,
+        class: 3,
         name: "Biology",
         department: "Biology",
         instructor: {
@@ -99,7 +99,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 4,
+        class: 4,
         name: "Advanced Python",
         department: "Programming",
         instructor: {
@@ -112,7 +112,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 5,
+        class: 5,
         name: "Introduction to Science",
         department: "Science",
         instructor: {
@@ -123,7 +123,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 6,
+        class: 6,
         name: "Advanced Science",
         department: "Science",
         instructor: {
@@ -134,7 +134,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 7,
+       class: 7,
         name: "Advanced Science",
         department: "Science",
         instructor: {
@@ -145,7 +145,7 @@ const catalog = [
         prerequisite: null
     },
     {
-        id: 8,
+        class: 8,
         name: "Advanced Science",
         department: "Science",
         instructor: {
